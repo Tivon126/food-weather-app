@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="72.486" viewBox="0 0 73 72.486">
+  <g id="Group_39" data-name="Group 39" transform="translate(-880 -51)">
+    <g id="Group_27" data-name="Group 27" transform="translate(893.139 62.486)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="23.633" cy="23.633" r="23.633" fill="#ffd016"/>
+      <path id="Ellipse_6_-_Outline" data-name="Ellipse 6 - Outline" d="M23.633-.125a23.764,23.764,0,0,1,9.248,45.649,23.764,23.764,0,0,1-18.5-43.782A23.61,23.61,0,0,1,23.633-.125Zm0,47.266A23.508,23.508,0,1,0,.125,23.633,23.535,23.535,0,0,0,23.633,47.141Z" fill="#fff"/>
+    </g>
+    <g id="Group_38" data-name="Group 38" transform="translate(897.878 67.121)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="18.917" cy="18.917" r="18.917" fill="#ffd016"/>
+      <path id="Ellipse_7_-_Outline" data-name="Ellipse 7 - Outline" d="M18.917-2A20.911,20.911,0,0,1,33.708,33.708,20.917,20.917,0,1,1,10.775-.355,20.788,20.788,0,0,1,18.917-2Zm0,37.834A16.917,16.917,0,1,0,2,18.917,16.936,16.936,0,0,0,18.917,35.834Z" fill="#fff"/>
+      <g id="Group_37" data-name="Group 37" transform="translate(0.036 0.129)">
+        <g id="Group_28" data-name="Group 28" transform="translate(18.917)">
+          <line id="Line_50" data-name="Line 50" y2="37.834" fill="#fff"/>
+          <path id="Line_51" data-name="Line 51" d="M2,37.834H-2V0H2Z" fill="#fff"/>
+        </g>
+        <g id="Group_29" data-name="Group 29" transform="translate(5.541 5.541)">
+          <line id="Line_52" data-name="Line 52" x1="26.753" y2="26.753" fill="#fff"/>
+          <path id="Line_53" data-name="Line 53" d="M1.414,28.167l-2.828-2.828L25.338-1.414l2.828,2.828Z" fill="#fff"/>
+        </g>
+        <g id="Group_30" data-name="Group 30" transform="translate(0 18.917)">
+          <line id="Line_54" data-name="Line 54" x1="37.834" fill="#fff"/>
+          <path id="Line_55" data-name="Line 55" d="M37.834,2H0V-2H37.834Z" fill="#fff"/>
+        </g>
+        <g id="Group_31" data-name="Group 31" transform="translate(5.541 5.541)">
+          <line id="Line_56" data-name="Line 56" x1="26.753" y1="26.753" fill="#fff"/>
+          <path id="Line_57" data-name="Line 57" d="M25.338,28.167-1.414,1.414,1.414-1.414,28.167,25.338Z" fill="#fff"/>
+        </g>
+        <g id="Group_32" data-name="Group 32" transform="translate(18.917)">
+          <line id="Line_58" data-name="Line 58" y1="37.834" fill="#fff"/>
+          <path id="Line_59" data-name="Line 59" d="M2,37.834H-2V0H2Z" fill="#fff"/>
+        </g>
+        <g id="Group_33" data-name="Group 33" transform="translate(5.541 5.541)">
+          <line id="Line_60" data-name="Line 60" y1="26.753" x2="26.753" fill="#fff"/>
+          <path id="Line_61" data-name="Line 61" d="M1.414,28.167l-2.828-2.828L25.338-1.414l2.828,2.828Z" fill="#fff"/>
+        </g>
+        <g id="Group_34" data-name="Group 34" transform="translate(0 18.917)">
+          <line id="Line_62" data-name="Line 62" x2="37.834" fill="#fff"/>
+          <path id="Line_63" data-name="Line 63" d="M37.834,2H0V-2H37.834Z" fill="#fff"/>
+        </g>
+        <g id="Group_35" data-name="Group 35" transform="translate(5.541 5.541)">
+          <line id="Line_64" data-name="Line 64" x2="26.753" y2="26.753" fill="#fff"/>
+          <path id="Line_65" data-name="Line 65" d="M25.338,28.167-1.414,1.414,1.414-1.414,28.167,25.338Z" fill="#fff"/>
+        </g>
+        <g id="Group_36" data-name="Group 36" transform="translate(18.917)">
+          <line id="Line_66" data-name="Line 66" y2="37.834" fill="#fff"/>
+          <path id="Line_67" data-name="Line 67" d="M2,37.834H-2V0H2Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="Line_68" data-name="Line 68" d="M1.5,9.254h-3V0h3Z" transform="translate(916.629 51)" fill="#ffd016"/>
+    <path id="Line_69" data-name="Line 69" d="M1.5,9.254h-3V0h3Z" transform="translate(916.629 114.232)" fill="#ffd016"/>
+    <path id="Line_70" data-name="Line 70" d="M5.483,7.6-1.061,1.061,1.061-1.061,7.6,5.483Z" transform="translate(891.508 62.123)" fill="#ffd016"/>
+    <path id="Line_71" data-name="Line 71" d="M5.483,7.6-1.061,1.061,1.061-1.061,7.6,5.483Z" transform="translate(936.234 106.848)" fill="#ffd016"/>
+    <path id="Line_72" data-name="Line 72" d="M9.254,1.5H0v-3H9.254Z" transform="translate(880 86.6)" fill="#ffd016"/>
+    <path id="Line_73" data-name="Line 73" d="M9.254,1.5H0v-3H9.254Z" transform="translate(943.746 86.6)" fill="#ffd016"/>
+    <path id="Line_74" data-name="Line 74" d="M1.061,7.6-1.061,5.483,5.483-1.061,7.6,1.061Z" transform="translate(935.977 62.894)" fill="#ffd016"/>
+    <path id="Line_75" data-name="Line 75" d="M1.061,7.6-1.061,5.483,5.483-1.061,7.6,1.061Z" transform="translate(891.765 107.105)" fill="#ffd016"/>
+  </g>
+</svg>

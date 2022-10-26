@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="120.484" viewBox="0 0 144 120.484">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff40ac"/>
+      <stop offset="0.091" stop-color="#f144af"/>
+      <stop offset="0.262" stop-color="#cd4fb7"/>
+      <stop offset="0.496" stop-color="#9261c5"/>
+      <stop offset="0.778" stop-color="#437ad8"/>
+      <stop offset="1" stop-color="#0090e9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7bac"/>
+      <stop offset="0.091" stop-color="#f17daf"/>
+      <stop offset="0.262" stop-color="#cd82b7"/>
+      <stop offset="0.496" stop-color="#928cc5"/>
+      <stop offset="0.778" stop-color="#4399d8"/>
+      <stop offset="1" stop-color="#00a4e9"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_59" data-name="Group 59" transform="translate(-70 -233)">
+    <g id="Group_1" data-name="Group 1" transform="translate(95.917 253.121)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="46.619" cy="46.619" r="46.619" fill="#ffd016" stroke="#fff" stroke-miterlimit="10" stroke-width="0.25"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(100.094 258.53)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="42.106" cy="42.106" r="42.106" transform="translate(0)" fill="#ffd016" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Group_11" data-name="Group 11" transform="translate(0.079 0.287)">
+        <g id="Group_2" data-name="Group 2" transform="translate(42.106)">
+          <line id="Line_1" data-name="Line 1" y2="84.211" fill="#fff"/>
+          <line id="Line_2" data-name="Line 2" y2="84.211" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(12.332 12.332)">
+          <line id="Line_3" data-name="Line 3" x1="59.546" y2="59.546" fill="#fff"/>
+          <line id="Line_4" data-name="Line 4" x1="59.546" y2="59.546" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(0 42.106)">
+          <line id="Line_5" data-name="Line 5" x1="84.211" fill="#fff"/>
+          <line id="Line_6" data-name="Line 6" x1="84.211" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(12.332 12.332)">
+          <line id="Line_7" data-name="Line 7" x1="59.546" y1="59.546" fill="#fff"/>
+          <line id="Line_8" data-name="Line 8" x1="59.546" y1="59.546" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(42.106)">
+          <line id="Line_9" data-name="Line 9" y1="84.211" fill="#fff"/>
+          <line id="Line_10" data-name="Line 10" y1="84.211" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(12.332 12.332)">
+          <line id="Line_11" data-name="Line 11" y1="59.546" x2="59.546" fill="#fff"/>
+          <line id="Line_12" data-name="Line 12" y1="59.546" x2="59.546" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(0 42.106)">
+          <line id="Line_13" data-name="Line 13" x2="84.211" fill="#fff"/>
+          <line id="Line_14" data-name="Line 14" x2="84.211" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(12.332 12.332)">
+          <line id="Line_15" data-name="Line 15" x2="59.546" y2="59.546" fill="#fff"/>
+          <line id="Line_16" data-name="Line 16" x2="59.546" y2="59.546" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(42.106)">
+          <line id="Line_17" data-name="Line 17" y2="84.211" fill="#fff"/>
+          <line id="Line_18" data-name="Line 18" y2="84.211" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <line id="Line_19" data-name="Line 19" y1="18.254" transform="translate(142.254 233)" fill="none" stroke="#ffd016" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_20" data-name="Line 20" x1="12.907" y1="12.907" transform="translate(92.701 252.406)" fill="none" stroke="#ffd016" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_21" data-name="Line 21" x1="18.254" transform="translate(70 300.69)" fill="none" stroke="#ffd016" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_22" data-name="Line 22" x1="18.254" transform="translate(195.746 300.69)" fill="none" stroke="#ffd016" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_23" data-name="Line 23" y1="12.907" x2="12.907" transform="translate(180.42 253.927)" fill="none" stroke="#ffd016" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_1" data-name="Path 1" d="M162.944,372.269s5.626-19.828,26.376-13.557c0,0,5.81-15.217,21.488-14.571,0,0,17.615-.738,21.95,20.566,0,0,13.834,1.291,14.571,17.8a15.6,15.6,0,0,1-2.582,10.7s-7.009,12.911-20.2,6.548c0,0-9.5,16.693-27.3,3.32,0,0-15.125,10.053-30.526-2.121,0,0-15.4,8.023-22.042-10.145C144.684,390.806,140.441,370.609,162.944,372.269Z" transform="translate(-36.659 -54.778)" fill="url(#linear-gradient)"/>
+    <path id="Path_2" data-name="Path 2" d="M176.36,381.141s4.625-16.3,21.685-11.145c0,0,4.777-12.51,17.666-11.98,0,0,14.482-.606,18.045,16.908,0,0,11.373,1.061,11.98,14.633a12.827,12.827,0,0,1-2.123,8.8s-5.763,10.615-16.6,5.383c0,0-7.81,13.724-22.443,2.729,0,0-12.434,8.264-25.1-1.744,0,0-12.662,6.6-18.121-8.34C161.348,396.381,157.86,379.777,176.36,381.141Z" transform="translate(-44.902 -61.62)" opacity="0.2" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

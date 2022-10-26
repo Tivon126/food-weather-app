@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="282" viewBox="0 0 284 282">
+  <g id="Group_26" data-name="Group 26" transform="translate(-406 -165)">
+    <g id="Group_14" data-name="Group 14">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="91.943" cy="91.943" r="91.943" transform="translate(457.114 209.683)" fill="#ffd016"/>
+      <path id="Ellipse_3_-_Outline" data-name="Ellipse 3 - Outline" d="M91.943-.125A92.746,92.746,0,0,1,110.5,1.745,91.564,91.564,0,0,1,143.419,15.6a92.336,92.336,0,0,1,33.357,40.507,91.605,91.605,0,0,1,5.365,17.282,92.964,92.964,0,0,1,0,37.109,91.564,91.564,0,0,1-13.853,32.921,92.336,92.336,0,0,1-40.507,33.357A91.605,91.605,0,0,1,110.5,182.14a92.964,92.964,0,0,1-37.109,0,91.564,91.564,0,0,1-32.921-13.853A92.336,92.336,0,0,1,7.11,127.78,91.6,91.6,0,0,1,1.745,110.5a92.964,92.964,0,0,1,0-37.109A91.564,91.564,0,0,1,15.6,40.467,92.336,92.336,0,0,1,56.106,7.11,91.6,91.6,0,0,1,73.388,1.745,92.746,92.746,0,0,1,91.943-.125Zm0,183.886A91.818,91.818,0,1,0,.125,91.943,91.922,91.922,0,0,0,91.943,183.761Z" transform="translate(457.114 209.683)" fill="#fff"/>
+    </g>
+    <g id="Group_25" data-name="Group 25">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="83.042" cy="83.042" r="83.042" transform="translate(465.351 220.351)" fill="#ffd016"/>
+      <path id="Ellipse_4_-_Outline" data-name="Ellipse 4 - Outline" d="M83.042-2A85.657,85.657,0,0,1,100.178-.272a84.587,84.587,0,0,1,30.412,12.8A85.284,85.284,0,0,1,161.4,49.939,84.629,84.629,0,0,1,166.356,65.9a85.851,85.851,0,0,1,0,34.273,84.587,84.587,0,0,1-12.8,30.412A85.284,85.284,0,0,1,116.144,161.4a84.629,84.629,0,0,1-15.966,4.956,85.851,85.851,0,0,1-34.273,0,84.586,84.586,0,0,1-30.412-12.8A85.284,85.284,0,0,1,4.684,116.144,84.629,84.629,0,0,1-.272,100.178a85.851,85.851,0,0,1,0-34.273,84.586,84.586,0,0,1,12.8-30.412A85.284,85.284,0,0,1,49.939,4.684,84.629,84.629,0,0,1,65.9-.272,85.657,85.657,0,0,1,83.042-2Zm0,166.083A81.042,81.042,0,1,0,2,83.042,81.134,81.134,0,0,0,83.042,164.083Z" transform="translate(465.351 220.351)" fill="#fff"/>
+      <g id="Group_24" data-name="Group 24">
+        <g id="Group_15" data-name="Group 15">
+          <line id="Line_24" data-name="Line 24" y2="166.083" transform="translate(548.55 220.917)" fill="#fff"/>
+          <path id="Line_25" data-name="Line 25" d="M2,166.083H-2V0H2Z" transform="translate(548.55 220.917)" fill="#fff"/>
+        </g>
+        <g id="Group_16" data-name="Group 16">
+          <line id="Line_26" data-name="Line 26" x1="117.439" y2="117.439" transform="translate(489.83 245.239)" fill="#fff"/>
+          <path id="Line_27" data-name="Line 27" d="M1.414,118.853l-2.828-2.828L116.025-1.414l2.828,2.828Z" transform="translate(489.83 245.239)" fill="#fff"/>
+        </g>
+        <g id="Group_17" data-name="Group 17">
+          <line id="Line_28" data-name="Line 28" x1="166.083" transform="translate(465.508 303.958)" fill="#fff"/>
+          <path id="Line_29" data-name="Line 29" d="M166.083,2H0V-2H166.083Z" transform="translate(465.508 303.958)" fill="#fff"/>
+        </g>
+        <g id="Group_18" data-name="Group 18">
+          <line id="Line_30" data-name="Line 30" x1="117.439" y1="117.439" transform="translate(489.83 245.239)" fill="#fff"/>
+          <path id="Line_31" data-name="Line 31" d="M116.025,118.853-1.414,1.414,1.414-1.414,118.853,116.025Z" transform="translate(489.83 245.239)" fill="#fff"/>
+        </g>
+        <g id="Group_19" data-name="Group 19">
+          <line id="Line_32" data-name="Line 32" y1="166.083" transform="translate(548.55 220.917)" fill="#fff"/>
+          <path id="Line_33" data-name="Line 33" d="M2,166.083H-2V0H2Z" transform="translate(548.55 220.917)" fill="#fff"/>
+        </g>
+        <g id="Group_20" data-name="Group 20">
+          <line id="Line_34" data-name="Line 34" y1="117.439" x2="117.439" transform="translate(489.83 245.239)" fill="#fff"/>
+          <path id="Line_35" data-name="Line 35" d="M1.414,118.853l-2.828-2.828L116.025-1.414l2.828,2.828Z" transform="translate(489.83 245.239)" fill="#fff"/>
+        </g>
+        <g id="Group_21" data-name="Group 21">
+          <line id="Line_36" data-name="Line 36" x2="166.083" transform="translate(465.508 303.958)" fill="#fff"/>
+          <path id="Line_37" data-name="Line 37" d="M166.083,2H0V-2H166.083Z" transform="translate(465.508 303.958)" fill="#fff"/>
+        </g>
+        <g id="Group_22" data-name="Group 22">
+          <line id="Line_38" data-name="Line 38" x2="117.439" y2="117.439" transform="translate(489.83 245.239)" fill="#fff"/>
+          <path id="Line_39" data-name="Line 39" d="M116.025,118.853-1.414,1.414,1.414-1.414,118.853,116.025Z" transform="translate(489.83 245.239)" fill="#fff"/>
+        </g>
+        <g id="Group_23" data-name="Group 23">
+          <line id="Line_40" data-name="Line 40" y2="166.083" transform="translate(548.55 220.917)" fill="#fff"/>
+          <path id="Line_41" data-name="Line 41" d="M2,166.083H-2V0H2Z" transform="translate(548.55 220.917)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="Line_42" data-name="Line 42" d="M1.5,36h-3V0h3Z" transform="translate(548.5 165)" fill="#ffd016"/>
+    <path id="Line_43" data-name="Line 43" d="M1.5,36h-3V0h3Z" transform="translate(548.5 411)" fill="#ffd016"/>
+    <path id="Line_44" data-name="Line 44" d="M24.4,26.517-1.061,1.061,1.061-1.061,26.517,24.4Z" transform="translate(450.772 208.272)" fill="#ffd016"/>
+    <path id="Line_45" data-name="Line 45" d="M24.4,26.517-1.061,1.061,1.061-1.061,26.517,24.4Z" transform="translate(624.772 382.272)" fill="#ffd016"/>
+    <path id="Line_46" data-name="Line 46" d="M36,1.5H0v-3H36Z" transform="translate(406 303.5)" fill="#ffd016"/>
+    <path id="Line_47" data-name="Line 47" d="M36,1.5H0v-3H36Z" transform="translate(654 303.5)" fill="#ffd016"/>
+    <path id="Line_48" data-name="Line 48" d="M1.061,26.517-1.061,24.4,24.4-1.061l2.121,2.121Z" transform="translate(623.772 211.272)" fill="#ffd016"/>
+    <path id="Line_49" data-name="Line 49" d="M1.061,26.517-1.061,24.4,24.4-1.061l2.121,2.121Z" transform="translate(451.772 383.272)" fill="#ffd016"/>
+  </g>
+</svg>
